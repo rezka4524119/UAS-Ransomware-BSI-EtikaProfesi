@@ -76,7 +76,7 @@ Berdasarkan fakta yang tersedia, dapat disimpulkan bahwa gangguan layanan BSI pa
 
 Dari sudut pandang etika profesi, transparansi merupakan salah satu aspek penting dalam penanganan insiden keamanan siber. Organisasi perlu memberikan informasi yang akurat, tepat waktu, dan tidak menyesatkan tanpa mengungkapkan data yang dapat mengganggu proses investigasi atau memperbesar risiko keamanan. Dengan demikian, keseimbangan antara keterbukaan informasi dan perlindungan keamanan menjadi faktor penting dalam menjaga kepercayaan nasabah serta memenuhi tanggung jawab profesional perusahaan.
 
- Muhamad-Habibi-Alfarisi-4524210137
+
 ## 3.1 Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1.1 Pengertian Pemangku Kepentingan
 Pemangku kepentingan adalah individu, kelompok, organisasi, atau lembaga yang memiliki kepentingan, memengaruhi, atau terpengaruh baik secara langsung maupun tidak langsung oleh suatu kejadian atau keputusan suatu organisasi. Di dalam kasus insiden keamanan siber, melakukan pemetaan pemangku kepentingan sangat krusial karena berfungsi untuk mengenali siapa saja yang berperan, siapa yang terpengaruh, dan bagaimana hubungan antara pihak-pihak tersebut dalam proses pencegahan, penanganan, serta pemulihan insiden.
