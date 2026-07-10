@@ -149,3 +149,180 @@ Media dan Masyarakat
 Informasi yang akurat
 Sedang
 Menyebarkan informasi yang benar dan meningkatkan literasi digital
+
+
+
+
+## 4.1 Analisis Etika, Hukum, dan Risiko
+## 4.1.1 Analisis Empat Teori Etika
+### 4.1.2 Analisis Berdasarkan Teori Utilitarianisme
+Teori utilitarianisme menilai suatu tindakan berdasarkan manfaat terbesar yang dihasilkan bagi sebanyak mungkin orang. Dalam kasus serangan ransomware LockBit 3.0 terhadap Bank Syariah Indonesia (BSI) pada tahun 2023, tindakan kelompok LockBit jelas tidak dapat dibenarkan karena menyebabkan kerugian yang jauh lebih besar dibandingkan manfaat yang diperoleh. Gangguan layanan perbankan menghambat aktivitas transaksi jutaan nasabah, mengganggu operasional bisnis, menurunkan kepercayaan masyarakat terhadap sistem perbankan digital, serta menimbulkan potensi kebocoran data pribadi.
+Dari sisi BSI, utilitarianisme mengharuskan perusahaan mengambil keputusan yang memberikan manfaat terbesar bagi seluruh pemangku kepentingan. Oleh karena itu, langkah pemulihan sistem, pemulihan layanan secara bertahap, serta peningkatan keamanan siber merupakan tindakan yang bertujuan meminimalkan dampak negatif bagi masyarakat. Selain itu, keputusan untuk tidak secara sembarangan membayar uang tebusan juga dapat dipandang sebagai upaya mencegah terulangnya praktik pemerasan siber di masa mendatang.
+Berdasarkan teori utilitarianisme, tindakan pelaku ransomware tidak memenuhi prinsip kemanfaatan karena menghasilkan kerugian sosial, ekonomi, dan keamanan informasi yang jauh lebih besar dibandingkan keuntungan yang diperoleh pelaku.
+### 4.1.3 Analisis Berdasarkan Teori Deontologi
+Teori deontologi menekankan bahwa suatu tindakan dinilai benar atau salah berdasarkan kewajiban moral dan kepatuhan terhadap aturan, bukan berdasarkan hasil akhirnya.
+Kelompok LockBit melanggar kewajiban moral maupun hukum dengan memperoleh akses secara ilegal ke sistem informasi BSI, mengenkripsi data, serta mengancam menyebarluaskan data apabila tuntutan mereka tidak dipenuhi. Tindakan tersebut
+bertentangan dengan prinsip menghormati hak kepemilikan, privasi, dan keamanan informasi.
+Dari sisi BSI, sebagai penyelenggara layanan perbankan, terdapat kewajiban untuk menjaga keamanan data nasabah serta memastikan keberlangsungan layanan. Insiden ini menunjukkan bahwa terdapat tantangan dalam memenuhi kewajiban tersebut, meskipun tidak serta-merta menunjukkan adanya kesengajaan. Oleh karena itu, organisasi memiliki tanggung jawab moral untuk melakukan evaluasi, memperkuat sistem keamanan, dan meningkatkan pengelolaan risiko agar kewajiban melindungi data nasabah dapat dipenuhi secara optimal.
+Dengan demikian, menurut teori deontologi, tindakan kelompok LockBit merupakan pelanggaran terhadap kewajiban moral dan hukum, sedangkan BSI berkewajiban memperbaiki tata kelola keamanan informasi sebagai bentuk tanggung jawab profesional.
+### 4.1.4 Analisis Berdasarkan Etika Kebajikan (Virtue Ethics)
+Etika kebajikan menilai suatu tindakan berdasarkan karakter dan nilai moral yang dimiliki oleh individu maupun organisasi.
+Perilaku kelompok LockBit mencerminkan karakter yang bertentangan dengan nilai-nilai kebajikan seperti kejujuran, tanggung jawab, kepedulian, dan integritas. Tujuan utama serangan adalah memperoleh keuntungan melalui pemerasan, sehingga tindakan tersebut menunjukkan karakter yang tidak bermoral.
+Sebaliknya, organisasi seperti BSI diharapkan menunjukkan karakter profesional melalui transparansi, tanggung jawab, dan komitmen dalam melindungi kepentingan nasabah. Setelah terjadinya insiden, perusahaan perlu menunjukkan sikap terbuka, melakukan pemulihan layanan secara bertanggung jawab, memberikan informasi yang dapat dipertanggungjawabkan kepada publik, serta terus meningkatkan kualitas sistem keamanan informasi.
+Dalam perspektif etika kebajikan, keberhasilan suatu organisasi tidak hanya diukur dari kemampuan teknis, tetapi juga dari karakter organisasi dalam menghadapi krisis secara bertanggung jawab dan berintegritas.
+### 4.1.5 Analisis Berdasarkan Etika Hak (Rights Ethics)
+Etika hak menekankan bahwa setiap individu memiliki hak-hak yang harus dihormati dan dilindungi.
+Pada kasus ini, nasabah memiliki hak atas perlindungan data pribadi, keamanan informasi, privasi, dan akses terhadap layanan perbankan yang aman. Serangan ransomware menyebabkan sebagian hak tersebut terganggu, terutama apabila terdapat data yang berhasil diakses atau layanan yang tidak dapat digunakan selama proses pemulihan.
+Tindakan kelompok LockBit secara langsung melanggar hak-hak tersebut karena memanfaatkan data dan sistem informasi untuk kepentingan pribadi melalui ancaman dan pemerasan. Di sisi lain, BSI memiliki tanggung jawab untuk menghormati hak nasabah dengan memperkuat sistem keamanan, menjaga kerahasiaan data, serta memberikan informasi yang jelas mengenai langkah-langkah penanganan insiden.
+Dengan demikian, berdasarkan etika hak, perlindungan terhadap hak nasabah harus menjadi prioritas utama dalam pengelolaan sistem informasi dan keamanan siber.
+## 4.2 Analisis Berdasarkan Pancasila
+Kasus serangan ransomware LockBit 3.0 terhadap BSI dapat dianalisis menggunakan nilai-nilai Pancasila sebagai dasar etika dalam kehidupan bermasyarakat dan berbangsa.
+### 4.2.1 Sila Pertama – Ketuhanan Yang Maha Esa
+Tindakan pemerasan, pencurian data, dan penyalahgunaan teknologi bertentangan dengan nilai moral dan ajaran agama yang menjunjung tinggi kejujuran serta tanggung jawab. Pemanfaatan teknologi seharusnya digunakan untuk memberikan manfaat bagi masyarakat, bukan sebagai sarana melakukan kejahatan siber.
+#### 4.2.2. Sila Kedua – Kemanusiaan yang Adil dan Beradab
+Serangan ransomware merugikan jutaan nasabah yang bergantung pada layanan perbankan. Gangguan layanan dan potensi kebocoran data menunjukkan tidak adanya penghormatan terhadap hak dan martabat manusia. Oleh karena itu, perlindungan terhadap data pribadi merupakan bentuk penghormatan terhadap nilai kemanusiaan.
+### 4.2.3 Sila Ketiga – Persatuan Indonesia
+Insiden siber yang menyerang salah satu bank terbesar di Indonesia dapat memengaruhi stabilitas sektor keuangan dan menurunkan kepercayaan masyarakat. Penanganan insiden memerlukan kerja sama antara pemerintah, lembaga keamanan siber, regulator, dan sektor perbankan agar ketahanan siber nasional tetap terjaga.
+### 4.2.4 Sila Keempat – Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan
+Pengambilan keputusan selama penanganan insiden harus dilakukan secara profesional, transparan, dan berdasarkan koordinasi antarinstansi. Keputusan mengenai pemulihan sistem, komunikasi kepada publik, serta peningkatan keamanan harus mempertimbangkan kepentingan masyarakat secara luas.
+
+### 4.2.5 Sila Kelima – Keadilan Sosial bagi Seluruh Rakyat Indonesia
+Seluruh nasabah berhak memperoleh layanan perbankan yang aman dan perlindungan data pribadi tanpa diskriminasi. Oleh karena itu, organisasi wajib memastikan bahwa keamanan informasi diterapkan secara merata sehingga seluruh masyarakat memperoleh perlindungan yang adil.
+Nilai Kepancasilaan Universitas Pancasila
+Kasus ini juga dapat dikaji berdasarkan nilai-nilai Kepancasilaan Universitas Pancasila, yaitu:
+Integritas, dengan menjaga kejujuran, keamanan informasi, dan tanggung jawab dalam pengelolaan data.
+Kepedulian, melalui perlindungan terhadap kepentingan nasabah serta pemberian layanan yang bertanggung jawab.
+Harmonis, dengan membangun koordinasi yang baik antara organisasi, regulator, dan masyarakat dalam menghadapi insiden siber.
+Kolaboratif, melalui kerja sama antara pemerintah, lembaga keamanan siber, aparat penegak hukum, dan sektor perbankan dalam menangani ancaman ransomware.
+Profesionalisme, dengan meningkatkan kompetensi sumber daya manusia, menerapkan standar keamanan informasi, serta melakukan evaluasi dan perbaikan sistem secara berkelanjutan.
+## 4.3 Analisis Kode Etik Profesi
+Kasus ransomware LockBit 3.0 terhadap BSI menunjukkan pentingnya penerapan kode etik profesi di bidang teknologi informasi. Salah satu acuan yang relevan adalah Kode Etik Association for Computing Machinery (ACM) dan Institute of Electrical and Electronics Engineers (IEEE).
+Berdasarkan Kode Etik ACM, prinsip 1.2 (Avoid Harm) menegaskan bahwa seorang profesional komputasi harus menghindari tindakan yang dapat merugikan orang lain. Serangan ransomware yang dilakukan kelompok LockBit jelas bertentangan dengan prinsip tersebut karena mengakibatkan kerugian finansial, gangguan layanan, serta potensi penyalahgunaan data pribadi.
+Prinsip 1.6 (Respect Privacy) juga mengharuskan setiap pihak menghormati privasi individu. Dugaan akses dan ancaman penyebaran data nasabah menunjukkan pelanggaran terhadap hak privasi yang seharusnya dilindungi.
+Selain itu, prinsip 2.9 (Design and Implement Systems Robustly and Usably Secure) menekankan bahwa profesional teknologi informasi memiliki tanggung jawab untuk merancang dan memelihara sistem yang aman. Dalam konteks ini, organisasi perlu terus meningkatkan pengamanan sistem, melakukan audit keamanan secara berkala, memperkuat mekanisme autentikasi, serta meningkatkan kemampuan deteksi dan respons terhadap ancaman siber.
+Pada Kode Etik IEEE, profesional dituntut untuk menjaga keselamatan, kesejahteraan masyarakat, serta bersikap jujur dan bertanggung jawab dalam menjalankan profesinya. Oleh karena itu, seluruh pihak yang terlibat dalam pengelolaan sistem informasi perbankan harus menerapkan prinsip profesionalisme, transparansi, dan akuntabilitas agar kepercayaan masyarakat terhadap layanan digital tetap terjaga.
+Dengan demikian, kasus serangan ransomware LockBit 3.0 memberikan pelajaran bahwa kepatuhan terhadap kode etik profesi tidak hanya berkaitan dengan kemampuan teknis, tetapi juga mencakup tanggung jawab moral dalam melindungi data, menjaga keamanan sistem, dan mengutamakan kepentingan masyarakat.
+## 4.4 Analisis Regulasi dan Hukum
+Kasus serangan ransomware LockBit 3.0 terhadap Bank Syariah Indonesia (BSI) tidak hanya merupakan permasalahan teknis, tetapi juga berkaitan dengan berbagai ketentuan hukum dan regulasi yang mengatur keamanan sistem elektronik, perlindungan data pribadi, serta penyelenggaraan layanan perbankan di Indonesia.
+### 4.4.1 Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP)
+UU PDP mengatur bahwa setiap pengendali data pribadi wajib melindungi data pribadi yang dikelolanya dari akses, penggunaan, pengungkapan, perubahan, maupun perusakan yang tidak sah.
+Dalam kasus ini, apabila terdapat data nasabah yang berhasil diakses atau berpotensi bocor akibat serangan ransomware, maka BSI sebagai pengendali data memiliki kewajiban untuk:
+Melakukan pengamanan terhadap data pribadi.
+Memberitahukan kepada pemilik data apabila terjadi kegagalan perlindungan data pribadi.
+Melakukan upaya pemulihan serta evaluasi terhadap sistem keamanan.
+Sementara itu, tindakan kelompok LockBit yang mencuri, mengakses, dan mengancam menyebarkan data pribadi merupakan bentuk pelanggaran terhadap hak perlindungan data pribadi sebagaimana diatur dalam UU PDP.
+
+
+
+
+### 4.4.2 Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 1 Tahun 2024
+UU ITE mengatur mengenai larangan terhadap akses ilegal, manipulasi data elektronik, serta gangguan terhadap sistem elektronik.
+Tindakan kelompok LockBit memenuhi unsur tindak pidana karena:
+Mengakses sistem elektronik tanpa hak.
+Mengubah atau mengenkripsi data milik pihak lain.
+Mengganggu keberlangsungan sistem elektronik.
+Melakukan pemerasan melalui ancaman penyebaran data.
+Perbuatan tersebut dapat dikenakan sanksi pidana sesuai ketentuan dalam UU ITE mengenai akses ilegal terhadap sistem elektronik dan gangguan terhadap informasi elektronik.
+### 4.4.3 Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998
+Sebagai lembaga perbankan, BSI memiliki kewajiban menjaga kepercayaan masyarakat melalui pengelolaan sistem informasi yang aman.
+Gangguan layanan akibat ransomware menunjukkan pentingnya penerapan manajemen risiko teknologi informasi agar operasional bank tetap berjalan secara aman dan berkesinambungan.
+### 4.4.4 Peraturan Otoritas Jasa Keuangan (OJK)
+Sebagai lembaga jasa keuangan, BSI juga wajib mematuhi berbagai ketentuan OJK mengenai manajemen risiko teknologi informasi dan keamanan siber.
+Regulasi tersebut mengharuskan bank untuk:
+menerapkan manajemen risiko teknologi informasi;
+melakukan pengawasan keamanan sistem secara berkala;
+memiliki Business Continuity Plan (BCP);
+memiliki Disaster Recovery Center (DRC);
+melakukan pelaporan apabila terjadi insiden keamanan siber.
+Penerapan regulasi tersebut bertujuan menjaga stabilitas sistem keuangan nasional sekaligus melindungi kepentingan nasabah.
+### 4.4.5 Peran Badan Siber dan Sandi Negara (BSSN)
+Dalam penanganan insiden keamanan siber nasional, BSSN memiliki peran melakukan koordinasi, mitigasi, analisis insiden, serta memberikan rekomendasi peningkatan keamanan kepada instansi maupun sektor strategis nasional, termasuk sektor perbankan.
+Kasus BSI menunjukkan pentingnya kolaborasi antara organisasi, regulator, aparat penegak hukum, dan BSSN dalam menangani ancaman ransomware yang semakin kompleks.
+Secara hukum, tindakan kelompok LockBit merupakan tindak pidana siber yang melanggar berbagai peraturan perundang-undangan di Indonesia. Di sisi lain, BSI memiliki kewajiban hukum untuk terus meningkatkan keamanan sistem, melindungi data pribadi nasabah, serta memenuhi ketentuan regulator dalam penyelenggaraan layanan perbankan digital.
+## 4.5 Checkpoint Integritas & Anti-Korupsi
+Kasus ransomware LockBit 3.0 memberikan pelajaran bahwa integritas merupakan salah satu fondasi utama dalam pengelolaan sistem informasi. Integritas tidak hanya berkaitan dengan kejujuran individu, tetapi juga mencakup komitmen organisasi dalam menjaga keamanan informasi, transparansi, serta akuntabilitas terhadap masyarakat.
+Beberapa checkpoint integritas yang perlu diterapkan oleh organisasi adalah sebagai berikut.
+### 4.5.1 Integritas dalam Pengelolaan Data
+Organisasi wajib menjaga kerahasiaan, keutuhan, dan ketersediaan data sesuai prinsip Confidentiality, Integrity, Availability (CIA). Seluruh pegawai harus menggunakan akses sistem sesuai kewenangannya dan tidak menyalahgunakan informasi yang dimiliki.
+### 4.5.2 Transparansi Penanganan Insiden
+Apabila terjadi insiden keamanan siber, organisasi harus memberikan informasi yang jelas kepada regulator maupun masyarakat tanpa menutupi fakta penting yang dapat memengaruhi kepentingan nasabah.
+### 4.5.3 Akuntabilitas
+Setiap aktivitas pengelolaan sistem informasi harus memiliki dokumentasi, audit log, serta mekanisme pertanggungjawaban yang jelas sehingga apabila terjadi pelanggaran dapat diketahui pihak yang bertanggung jawab.
+### 4.5.4 Pencegahan Penyalahgunaan Wewenang
+Hak akses administrator harus diberikan berdasarkan prinsip least privilege, yaitu hanya memberikan akses sesuai kebutuhan pekerjaan. Mekanisme ini dapat mencegah penyalahgunaan akses oleh pihak internal.
+
+
+### 4.5.5 Budaya Anti-Korupsi
+Dalam pengadaan perangkat keras, perangkat lunak, maupun layanan keamanan siber, organisasi harus menerapkan prinsip transparansi, profesionalisme, dan akuntabilitas agar terhindar dari praktik korupsi, kolusi, maupun nepotisme.
+Dengan menerapkan prinsip integritas dan anti-korupsi, organisasi dapat membangun kepercayaan masyarakat sekaligus memperkuat tata kelola keamanan informasi secara berkelanjutan.
+### 4.5.6	 Manajemen Risiko (ISO 31000 & Opsi 4T)
+ISO 31000 merupakan standar internasional yang memberikan pedoman dalam mengelola risiko secara sistematis. Pada kasus ransomware LockBit 3.0, proses manajemen risiko dapat dilakukan melalui identifikasi risiko, analisis risiko, evaluasi risiko, serta penanganan risiko menggunakan pendekatan 4T (Terminate, Treat, Transfer, Tolerate).
+Identifikasi Risiko
+Risiko
+Dampak
+Serangan ransomware
+Sistem tidak dapat digunakan
+Kebocoran data nasabah
+Pelanggaran privasi dan kerugian reputasi
+Gangguan layanan perbankan
+Transaksi nasabah terhambat
+Kerugian finansial
+Biaya pemulihan sistem meningkat
+Penurunan kepercayaan masyarakat
+Reputasi organisasi menurun
+
+Analisis Risiko
+Berdasarkan tingkat kemungkinan dan dampaknya, serangan ransomware termasuk kategori High Risk karena memiliki probabilitas tinggi dan dampak yang sangat besar terhadap operasional organisasi.
+Penanganan Risiko Menggunakan Opsi 4T
+## 1. Treat (Mengurangi Risiko)
+Merupakan strategi utama yang diterapkan.
+Contohnya:
+memperkuat firewall;
+menerapkan Multi-Factor Authentication (MFA);
+melakukan backup data secara berkala;
+melakukan patch management;
+menerapkan endpoint protection;
+meningkatkan monitoring keamanan menggunakan SIEM.
+## 2. Transfer (Mengalihkan Risiko)
+Risiko dapat dialihkan melalui:
+cyber insurance;
+penggunaan layanan cloud yang memiliki standar keamanan tinggi;
+kerja sama dengan penyedia layanan keamanan siber.
+## 3. Tolerate (Menerima Risiko)
+Risiko dengan dampak kecil masih dapat diterima apabila biaya mitigasi lebih besar dibandingkan potensi kerugiannya, namun tetap harus dilakukan monitoring secara berkala.
+## 4. Terminate (Menghindari Risiko)
+Menghilangkan aktivitas yang memiliki risiko tinggi, misalnya:
+menonaktifkan layanan yang sudah tidak digunakan;
+menghapus akun pengguna yang tidak aktif;
+menutup port jaringan yang tidak diperlukan.
+Dengan penerapan ISO 31000 dan strategi 4T, organisasi dapat mengurangi kemungkinan terjadinya insiden keamanan siber sekaligus meningkatkan kesiapan dalam menghadapi ancaman ransomware.
+
+
+
+
+## 4.7 Rancangan Dampak & Kontrol Preventif
+Untuk meminimalkan risiko serangan ransomware di masa mendatang, organisasi perlu menerapkan berbagai kontrol preventif yang mencakup aspek teknologi, sumber daya manusia, serta tata kelola organisasi.
+Dampak Potensial
+Kontrol Preventif
+Gangguan layanan perbankan
+Disaster Recovery Plan (DRP) dan Business Continuity Plan (BCP)
+Kehilangan data
+Backup berkala dengan penyimpanan offline (offline backup)
+Kebocoran data pribadi
+Enkripsi data saat penyimpanan maupun transmisi
+Akses ilegal ke sistem
+Multi-Factor Authentication (MFA) dan Access Control
+Malware dan ransomware
+Endpoint Detection and Response (EDR), antivirus, dan firewall
+Serangan phishing
+Pelatihan keamanan siber bagi seluruh pegawai
+Eksploitasi celah keamanan
+Patch management dan vulnerability assessment secara berkala
+Kesalahan konfigurasi
+Audit keamanan sistem dan penetration testing secara rutin
+Lambatnya respons insiden
+Pembentukan Computer Security Incident Response Team (CSIRT)
+Penurunan kepercayaan masyarakat
+Komunikasi yang transparan serta pemulihan layanan secara cepat
+
+Selain kontrol teknis, organisasi juga perlu membangun budaya keamanan informasi melalui edukasi kepada seluruh pegawai, penyusunan kebijakan keamanan yang jelas, serta evaluasi keamanan secara berkala. Pendekatan tersebut akan meningkatkan ketahanan organisasi terhadap ancaman siber sekaligus menjaga kepercayaan masyarakat terhadap layanan perbankan digital.
