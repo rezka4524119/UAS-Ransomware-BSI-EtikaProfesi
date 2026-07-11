@@ -431,10 +431,12 @@ Belajar dari kelemahan arsitektur keamanan pada kasus BSI, berikut adalah rancan
 - Implementasi Endpoint Detection and Response (EDR) & XDR: Memasang agen deteksi otomatis berbasis kecerdasan buatan (AI) di seluruh endpoint server dan komputer kerja untuk mendeteksi perilaku mencurigakan (seperti enkripsi massal secara tiba-tiba) dan mengisolasi perangkat yang terinfeksi secara seketika (real-time isolation).
 - Segregasi Jaringan dan Mikro-segmentasi: Membagi jaringan bank menjadi segmen-segmen kecil yang terisolasi satu sama lain. Jika satu segmen komputer kerja terinfeksi ransomware, malware tidak akan bisa menyebar secara lateral (lateral movement) ke server inti perbankan (core banking).
 - Strategi Backup Data Immutable (3-2-1-1-0 Rule): Menyimpan 3 salinan data, pada 2 media yang berbeda, dengan 1 salinan di lokasi luar (offsite/cloud), 1 salinan bersifat immutable (tidak dapat diubah atau dihapus oleh ransomware setelah ditulis), dan melakukan verifikasi pengujian pemulihan data dengan tingkat kesalahan 0.
+  
 ###10.2.2 Kontrol Administratif (Administrative Controls)
 - Manajemen Kerentanan Berkala (Vulnerability Assessment & Penetration Testing - VAPT): Melakukan pemindaian celah keamanan secara rutin seminggu sekali dan melakukan simulasi peretasan (red teaming) minimal dua kali setahun untuk menutup celah keamanan sebelum dieksploitasi peretas.
 - Kebijakan Hardening & Patch Management Otomatis: Mewajibkan pembaruan patch keamanan sistem operasi dan perangkat lunak secara otomatis dalam waktu maksimal 24 jam setelah patch resmi dirilis oleh vendor.
 - Pelatihan Cyber Security Awareness & Phishing Simulation: Mengingat ransomware sering masuk melalui taktik social engineering (email phishing), karyawan wajib mengikuti pelatihan kesadaran siber dan simulasi jebakan email berkala setiap 3 bulan.
+  
 ##10.4 Rencana Kontingensi Singkat (Rencana Cadangan)
 Jika kontrol preventif mengalami kegagalan teknis dan ransomware berhasil menembus pertahanan perimeter, langkah penanganan darurat yang disiapkan adalah:
 1. Aktivasi Incident Response Plan (IRP): Memutus seluruh koneksi internet luar secara instan dan mematikan jalur komunikasi antar-cabang untuk mengurung pergerakan ransomware.
