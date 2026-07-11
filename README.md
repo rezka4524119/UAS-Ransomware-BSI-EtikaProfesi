@@ -409,6 +409,6 @@ Selain kontrol teknis, organisasi juga perlu membangun budaya keamanan informasi
  ## 10.1 Analisis Dampak Serangan Ransomware BSI (Mei 2023)
 Berdasarkan analisis kronologi serangan ransomware LockBit 3.0 terhadap Bank Syariah Indonesia (BSI) pada Mei 2023, dampak yang ditimbulkan tidak hanya menyasar sektor teknis, melainkan meluas ke aspek operasional, finansial, dan reputasi institusi. Berikut adalah rincian dampak negatif yang diidentifikasi:
 1. Dampak Operasional (System Downtime & Service Interruption)
-Deskripsi: Terjadinya kelumpuhan total pada seluruh layanan digital perbankan, termasuk ATM, Mobile Banking (BSI Mobile), dan layanan kantor cabang selama beberapa hari. Hal ini menghentikan jutaan transaksi nasabah secara instan.
-Tingkat Risiko: Tinggi (High).
+- Deskripsi: Terjadinya kelumpuhan total pada seluruh layanan digital perbankan, termasuk ATM, Mobile Banking (BSI Mobile), dan layanan kantor cabang selama beberapa hari. Hal ini menghentikan jutaan transaksi nasabah secara instan.
+- Tingkat Risiko: Tinggi (High).
 
