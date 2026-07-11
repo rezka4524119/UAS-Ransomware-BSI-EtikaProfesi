@@ -1,6 +1,8 @@
 # UAS-Ransomware-BSI-EtikaProfesi
 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah Indonesia (BSI)  — Mei 2023 
 
+Aufa-Al-Ghiyats-Sulthan-Priatmojo-4524210132
+
 # 1. Kronologi & Konteks
 
 ## 1.1 Konteks Kasus
@@ -424,6 +426,7 @@ Berdasarkan analisis kronologi serangan ransomware LockBit 3.0 terhadap Bank Sya
 - Deskripsi: Potensi kerugian material akibat hilangnya perputaran biaya transaksi harian, biaya pemulihan sistem (disaster recovery), serta potensi denda dari regulasi penegakan hukum perlindungan data pribadi (UU PDP).
 - ingkat Risiko: Tinggi (High).
 
+main
 # 10. ⁠Rancangan Dampak & Kontrol Preventif
 
 ## 10.1 Analisis Dampak Serangan Ransomware BSI (Mei 2023)
