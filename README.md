@@ -40,8 +40,33 @@ Belajar dari kelemahan arsitektur keamanan pada kasus BSI, berikut adalah rancan
 Jika kontrol preventif mengalami kegagalan teknis dan ransomware berhasil menembus pertahanan perimeter, langkah penanganan darurat yang disiapkan adalah:
 
 **1. Aktivasi Incident Response Plan (IRP): Memutus seluruh koneksi internet luar secara instan dan mematikan jalur komunikasi antar-cabang untuk mengurung pergerakan ransomware.**
+
 **2. Peralihan ke Disaster Recovery Center (DRC): Melakukan failover operasional ke pusat pemulihan bencana yang berada di lokasi geografis berbeda menggunakan data cadangan clean-state yang telah diverifikasi bebas dari malware.**
 
+# 11. Pelajaran Utama
+## 11.1 Keamanan Siber Bukan Lagi Masalah IT, Melainkan Risiko Bisnis Utama
+Kasus BSI membuktikan bahwa kegagalan sistem keamanan siber berdampak langsung pada kelangsungan bisnis (business continuity). Kelumpuhan layanan ATM dan mobile banking selama beberapa hari memicu kerugian finansial yang masif, potensi sanksi regulasi (UU PDP), serta penurunan drastis pada aspek paling krusial dalam dunia perbankan: kepercayaan nasabah (public trust).
+
+## 11.2 Paradigma Pertahanan Perimeter Tradisional Sudah Usang
+Mengandalkan firewall atau antivirus konvensional di jaringan luar (perimeter) tidak lagi cukup untuk membendung serangan modern. Industri finansial harus bergeser ke arsitektur Zero Trust, yang memegang prinsip "never trust, always verify". Setiap akses baik dari internal pegawai maupun jaringan luar harus selalu melalui proses otentikasi yang ketat dan menerapkan hak akses seminimal mungkin (least privilege).
+
+## 11.3 Pentingnya Deteksi Dini dan Isolasi Otomatis
+Ransomware bergerak sangat cepat melakukan enkripsi dan penyebaran lateral (lateral movement) begitu berhasil masuk ke satu komputer kerja pegawai. Pelajaran berharganya adalah organisasi wajib memiliki sistem EDR/XDR berbasis AI yang mampu mendeteksi aktivitas anomali secara real-time dan melakukan isolasi perangkat secara otomatis sebelum infeksi menyebar ke server inti (core banking).
+
+## 11.4 Strategi Cadangan (Backup) Harus Bersifat Immutable
+Kelompok peretas ransomware modern selalu mengincar dan menghapus data backup organisasi terlebih dahulu sebelum mengunci sistem utama. Oleh karena itu, memiliki cadangan data saja tidak cukup. Data cadangan wajib disimpan dengan metode Immutable Backup (data yang sudah ditulis tidak dapat diubah atau dihapus oleh siapa pun dalam jangka waktu tertentu), sehingga organisasi memiliki titik pemulihan yang aman tanpa harus membayar tebusan (ransom).
+
+## 11.5 Manusia Adalah Mata Rantai Terlemah (The Weakest Link)
+Sebagian besar serangan ransomware berskala besar dimulai dari celah kelalaian manusia, seperti rekayasa sosial (social engineering) melalui email phishing yang tidak sengaja diklik oleh karyawan. Hal ini menunjukkan bahwa investasi teknologi mutakhir harus diimbangi dengan pembangunan budaya sadar siber (cyber security awareness) yang konsisten bagi seluruh lini staf perusahaan.
+
+# 12. Daftar Pustaka
+Nugroho, A. (2023, May 13). Geng ransomware LockBit 3.0 akhirnya buka suara: Kami curi 1,5 TB data nasabah dan karyawan BSI. Password seluruh layanan juga dikuasai. Cyberthreat.id https://urj.uin-malang.ac.id/index.php/mij/article/download/15502/6783/
+
+Tempo. (2023, May 11). Dugaan serangan siber ransomware ke BSI. Tempo.co. https://www.tempo.co/ekonomi/dugaan-serangan-siber-ke-bsi-824962
+
+Tempo. (2023, May 12). Ransomware Lockbit 3.0 klaim lumpuhkan BSI dan curi data pengguna. CNN Indonesia. https://www.cnnindonesia.com/teknologi/20230513093401-185-949046/ransomware-lockbit-30-klaim-lumpuhkan-bsi-dan-curi-data-pengguna
+
+DW. (2023, May 13). Ransomware diduga sebab bocornya data nasabah BSI. DW Indonesia.dw https://www.dw.com/id/data-nasabah-bsi-diduga-bocor-karena-ransomware/a-65612084
 
 
 
