@@ -1,3 +1,33 @@
+<div align="center">
+
+# LAPORAN PROYEK AKHIR
+
+## Mata Kuliah Analisis dan Perancangan Berorientasi Objek (APBO)
+
+## Sistem Pelaporan Sampah Berbasis Web
+
+<img src="https://pasca-univpancasila.ac.id/assets/images/logoup.gif" alt="Logo Universitas Pancasila" width="180">
+
+### Disusun Oleh
+
+1. Ernan Wana – (NPM)
+2. Nama Anggota 2 – (NPM)
+3. Nama Anggota 3 – (NPM)
+4. Nama Anggota 4 – (NPM)
+5. Nama Anggota 5 – (NPM)
+
+### Dosen Pengampu
+
+Nama Dosen, S.Kom., M.Kom.
+
+**Program Studi Teknik Informatika**
+**Fakultas Teknik**
+**Universitas Pancasila**
+**Jakarta**
+**2026**
+
+</div>
+
 # UAS-Ransomware-BSI-EtikaProfesi
 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah Indonesia (BSI)  — Mei 2023 
 
