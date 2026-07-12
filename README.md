@@ -1,8 +1,87 @@
 # UAS-Ransomware-BSI-EtikaProfesi
 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah Indonesia (BSI)  — Mei 2023 
 
- Muhamad-Habibi-Alfarisi-4524210137
+
 # 3.Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
+
+
+# 1. Kronologi & Konteks
+
+## 1.1 Konteks Kasus
+
+Transformasi digital telah merubah sektor perbankan menjadi bidang yang sangat tergantung pada teknologi informasi. Berbagai layanan seperti perbankan mobile, perbankan internet, ATM, pengiriman uang, pembayaran tagihan, serta pembukaan rekening kini dilakukan secara daring. Digitalisasi menawarkan kemudahan, efisiensi, dan kecepatan dalam melayani nasabah, namun juga meningkatkan ancaman serangan siber karena sistem perbankan menjadi target yang sangat menarik bagi pelaku kejahatan siber.
+
+Bank Syariah Indonesia (BSI) merupakan bank syariah terbesar di tanah air yang terbentuk melalui penggabungan PT Bank BRI Syariah Tbk, PT Bank Syariah Mandiri, dan PT Bank BNI Syariah pada tahun 2021. Sebagai lembaga keuangan yang melayani jutaan nasabah di seluruh pelosok Indonesia, BSI memiliki tanggung jawab besar dalam menjaga keberlangsungan layanan, keamanan informasi, serta perlindungan data pribadi nasabah.
+
+Di awal Mei 2023, BSI mengalami gangguan layanan yang bersifat nasional, menyebabkan sebagian besar layanan digital tidak dapat diakses selama beberapa hari. Gangguan ini kemudian dihubungkan dengan serangan ransomware yang diaku oleh kelompok ransomware LockBit 3. 0, salah satu kelompok ransomware paling aktif di dunia. Kejadian ini menarik perhatian publik karena tidak hanya mengganggu operasional perbankan, tetapi juga menimbulkan kecurigaan mengenai kebocoran data nasabah dan karyawan, sehingga mengangkat pertanyaan tentang kesiapan Rencana Keberlangsungan Bisnis (BCP), Rencana Pemulihan Bencana (DRP), transparansi publik, serta tanggung jawab etika dan hukum perusahaan.
+
+
+## 1.2 Konteks Teknis
+
+Ransomware adalah tipe malware yang dirancang untuk mengunci atau mengenkripsi sistem komputer, sehingga korban kehilangan akses ke data dan layanan yang ada. Setelah berhasil menginfeksi sistem, pelaku umumnya meminta sejumlah uang tebusan agar akses dapat dikembalikan. Dalam beberapa tahun terakhir, kelompok ransomware modern tidak hanya mengenkripsi data, tetapi juga mencuri informasi korban sebelum melakukan enkripsi. Strategi ini dikenal sebagai double extortion, di mana korban diancam dengan penyebaran data yang dicuri jika tebusan tidak dibayar.
+
+Kelompok LockBit 3. 0 terkenal karena penggunaan teknik ini. Mereka memanfaatkan celah dalam sistem keamanan untuk masuk ke jaringan internal korban, meningkatkan hak akses, mencuri informasi penting, lalu mengenkripsi server dan sistem operasional. Jenis serangan seperti ini sangat berisiko bagi lembaga keuangan karena dapat menghentikan layanan publik dan juga mengancam kerahasiaan informasi nasabah.
+
+Pada kasus BSI, diduga serangan ransomware menyebabkan gangguan pada berbagai layanan penting seperti aplikasi BSI Mobile, mesin ATM, internet banking, dan transaksi antarbank. Gangguan ini memperlihatkan bahwa insiden keamanan siber tidak hanya berdampak pada teknologi, tetapi juga berpengaruh pada operasional bisnis, reputasi perusahaan, kepercayaan publik, dan stabilitas sektor keuangan.
+
+
+## 1.3 Kronologi Kejadian
+
+| **Tanggal** | **Peristiwa** | **Dampak** |
+|-------------|---------------|------------|
+| **8 Mei 2023** | Nasabah mulai mengeluhkan gangguan pada layanan BSI Mobile, ATM, dan transaksi digital. BSI menyampaikan bahwa gangguan terjadi karena proses *maintenance* sistem. | Nasabah mengalami kesulitan melakukan transaksi dan mulai mempertanyakan penyebab gangguan. |
+| **9 Mei 2023** | Gangguan masih berlanjut pada layanan mobile banking, internet banking, ATM, serta beberapa layanan di kantor cabang. Keluhan masyarakat meningkat di media sosial dan menjadi perhatian media nasional. | Aktivitas transaksi masyarakat terganggu dan muncul kekhawatiran mengenai keamanan sistem BSI. |
+| **10 Mei 2023** | BSI membuka layanan secara terbatas melalui kantor cabang sambil melakukan proses pemulihan sistem bersama tim internal dan pihak terkait. | Operasional mulai berjalan secara manual, namun layanan digital masih belum normal sehingga menimbulkan spekulasi adanya serangan siber. |
+| **11 Mei 2023** | Kelompok **LockBit 3.0** mengklaim bertanggung jawab atas serangan terhadap sistem BSI dan mengaku telah memperoleh sekitar **1,5 TB** data internal. Kelompok tersebut juga mengancam akan mempublikasikan data apabila tidak terjadi negosiasi. | Kekhawatiran masyarakat meningkat karena adanya dugaan kebocoran data nasabah dan pegawai. |
+| **12–15 Mei 2023** | BSI melakukan pemulihan layanan secara bertahap. Aplikasi BSI Mobile, ATM, internet banking, dan layanan transaksi lainnya mulai kembali beroperasi. BSI juga menyampaikan permohonan maaf kepada nasabah. | Sebagian besar layanan berhasil dipulihkan, namun kepercayaan masyarakat terhadap keamanan sistem masih menjadi perhatian. |
+
+## 1.4 Analisis Kronologi
+
+Berdasarkan kronologi tersebut, insiden yang dialami BSI tidak hanya berdampak pada gangguan operasional, tetapi juga memengaruhi kepercayaan masyarakat terhadap keamanan layanan perbankan digital. Kasus ini menunjukkan bahwa ancaman keamanan siber dapat mengganggu keberlangsungan bisnis, menimbulkan kerugian bagi nasabah, serta menguji kesiapan organisasi dalam menangani insiden melalui penerapan Business Continuity Plan (BCP) dan Disaster Recovery Plan (DRP). Oleh karena itu, peristiwa ini menjadi salah satu contoh penting mengenai perlunya tata kelola keamanan informasi yang baik, transparansi kepada publik, serta tanggung jawab profesional dalam menghadapi insiden keamanan siber.
+
+# 2. Fakta Kunci & Catatan Transparansi
+
+## 2.1 Fakta Terverifikasi
+
+Dalam menganalisis kasus ransomware yang menimpa Bank Syariah Indonesia (BSI), penting untuk membedakan antara fakta yang telah terverifikasi dengan informasi yang masih berupa dugaan atau klaim. Fakta yang disajikan pada bagian ini berasal dari sumber resmi seperti pernyataan Bank Syariah Indonesia, Otoritas Jasa Keuangan (OJK), Badan Siber dan Sandi Negara (BSSN), serta pemberitaan media yang mengutip sumber resmi.
+Berikut merupakan fakta-fakta yang telah terverifikasi terkait insiden tersebut.
+
+| No | Fakta Terverifikasi | Keterangan |
+|----|---------------------|------------|
+| 1 | Gangguan layanan BSI mulai terjadi pada **8 Mei 2023**. | Gangguan dialami pada layanan BSI Mobile, ATM, internet banking, dan transaksi digital lainnya. |
+| 2 | BSI menyampaikan bahwa sedang dilakukan proses pemulihan sistem. | Informasi disampaikan melalui pengumuman resmi kepada nasabah selama masa gangguan. |
+| 3 | Layanan digital BSI mengalami gangguan selama beberapa hari. | Banyak nasabah tidak dapat melakukan transaksi secara normal. |
+| 4 | Kelompok ransomware **LockBit 3.0** mengklaim bertanggung jawab atas serangan terhadap sistem BSI. | Klaim tersebut dipublikasikan melalui situs kebocoran data milik LockBit. |
+| 5 | BSI melakukan pemulihan layanan secara bertahap hingga sistem kembali beroperasi. | Proses normalisasi dilakukan setelah gangguan berlangsung selama beberapa hari. |
+| 6 | **OJK** dan **BSSN** ikut memantau proses penanganan insiden. | Hal ini dilakukan untuk memastikan stabilitas layanan dan mendukung proses investigasi. |
+
+## 2.2 Informasi yang Masih Memerlukan Verifikasi
+
+Selain fakta yang telah dipastikan kebenarannya, terdapat beberapa informasi yang beredar di masyarakat namun belum dapat dipastikan secara resmi. Oleh karena itu, informasi berikut tidak dapat langsung dianggap sebagai fakta dan masih memerlukan verifikasi lebih lanjut.
+
+| No | Informasi | Status |
+|----|-----------|--------|
+| 1 | Seluruh data nasabah berhasil dicuri oleh pelaku. | ⚠️ **Belum terverifikasi.** Tidak ada pernyataan resmi yang menyatakan seluruh data nasabah berhasil dicuri. |
+| 2 | Data yang dicuri mencapai **1,5 TB**. | ⚠️ Berasal dari klaim **LockBit 3.0** dan belum dapat diverifikasi secara independen. |
+| 3 | Semua data yang diklaim dicuri telah dipublikasikan. | ⚠️ Belum dapat dipastikan karena tidak ada konfirmasi resmi mengenai keseluruhan data tersebut. |
+| 4 | Penyebab gangguan sepenuhnya disebabkan oleh ransomware. | ⚠️ Masih memerlukan hasil investigasi teknis secara lengkap karena detail penyebab tidak dipublikasikan secara menyeluruh kepada masyarakat. |
+
+## 2.3 Catatan Transparansi
+
+Dalam penyusunan laporan ini, penulis berupaya menerapkan prinsip transparansi dengan membedakan secara jelas antara fakta yang telah terverifikasi dan informasi yang masih berupa dugaan. Pendekatan ini dilakukan agar laporan tetap objektif, tidak menyesatkan pembaca, serta sesuai dengan etika akademik.
+
+Kasus BSI juga menunjukkan pentingnya transparansi organisasi dalam menghadapi insiden keamanan siber. Pada awal terjadinya gangguan, BSI menyampaikan bahwa layanan mengalami kendala akibat proses maintenance sistem. Seiring berkembangnya informasi, muncul klaim dari kelompok LockBit mengenai dugaan serangan ransomware dan pencurian data. Perbedaan informasi tersebut menimbulkan berbagai spekulasi di masyarakat sehingga diperlukan komunikasi yang jelas, konsisten, dan didukung oleh hasil investigasi yang dapat dipertanggungjawabkan.
+
+Bagi pembaca, informasi yang berasal dari pihak resmi seperti BSI, OJK, dan BSSN dapat dijadikan rujukan utama. Sementara itu, informasi yang berasal dari klaim kelompok LockBit perlu diperlakukan secara kritis karena belum seluruhnya dapat diverifikasi melalui sumber independen. Oleh sebab itu, setiap kesimpulan mengenai jumlah data yang diduga dicuri maupun dampak kebocoran data harus mempertimbangkan hasil investigasi resmi yang tersedia.
+
+## 2.4 Analisis Fakta dan Transparansi
+
+Berdasarkan fakta yang tersedia, dapat disimpulkan bahwa gangguan layanan BSI pada Mei 2023 merupakan insiden yang berdampak besar terhadap operasional perbankan dan kepercayaan masyarakat. Meskipun proses pemulihan layanan berhasil dilakukan, keterbatasan informasi pada tahap awal menyebabkan munculnya berbagai spekulasi di ruang publik.
+
+Dari sudut pandang etika profesi, transparansi merupakan salah satu aspek penting dalam penanganan insiden keamanan siber. Organisasi perlu memberikan informasi yang akurat, tepat waktu, dan tidak menyesatkan tanpa mengungkapkan data yang dapat mengganggu proses investigasi atau memperbesar risiko keamanan. Dengan demikian, keseimbangan antara keterbukaan informasi dan perlindungan keamanan menjadi faktor penting dalam menjaga kepercayaan nasabah serta memenuhi tanggung jawab profesional perusahaan.
+
+
+main
 ## 3.1 Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1.1 Pengertian Pemangku Kepentingan
 Pemangku kepentingan adalah individu, kelompok, organisasi, atau lembaga yang memiliki kepentingan, memengaruhi, atau terpengaruh baik secara langsung maupun tidak langsung oleh suatu kejadian atau keputusan suatu organisasi. Di dalam kasus insiden keamanan siber, melakukan pemetaan pemangku kepentingan sangat krusial karena berfungsi untuk mengenali siapa saja yang berperan, siapa yang terpengaruh, dan bagaimana hubungan antara pihak-pihak tersebut dalam proses pencegahan, penanganan, serta pemulihan insiden.
@@ -301,7 +380,6 @@ Dengan penerapan ISO 31000 dan strategi 4T, organisasi dapat mengurangi kemungki
 
 
 
-
 ## 4.7 Rancangan Dampak & Kontrol Preventif
 Untuk meminimalkan risiko serangan ransomware di masa mendatang, organisasi perlu menerapkan berbagai kontrol preventif yang mencakup aspek teknologi, sumber daya manusia, serta tata kelola organisasi.
 Dampak Potensial
@@ -442,77 +520,296 @@ Beberapa langkah yang dapat diterapkan untuk mengurangi kemungkinan terulangnya 
 
 # 1. Kronologi & Konteks
 
-## 1.1 Konteks Kasus
+ main
 
-Transformasi digital telah merubah sektor perbankan menjadi bidang yang sangat tergantung pada teknologi informasi. Berbagai layanan seperti perbankan mobile, perbankan internet, ATM, pengiriman uang, pembayaran tagihan, serta pembukaan rekening kini dilakukan secara daring. Digitalisasi menawarkan kemudahan, efisiensi, dan kecepatan dalam melayani nasabah, namun juga meningkatkan ancaman serangan siber karena sistem perbankan menjadi target yang sangat menarik bagi pelaku kejahatan siber.
+# BAB V
+# Lensa Kelima — Pancasila
 
-Bank Syariah Indonesia (BSI) merupakan bank syariah terbesar di tanah air yang terbentuk melalui penggabungan PT Bank BRI Syariah Tbk, PT Bank Syariah Mandiri, dan PT Bank BNI Syariah pada tahun 2021. Sebagai lembaga keuangan yang melayani jutaan nasabah di seluruh pelosok Indonesia, BSI memiliki tanggung jawab besar dalam menjaga keberlangsungan layanan, keamanan informasi, serta perlindungan data pribadi nasabah.
+Pancasila merupakan dasar negara sekaligus pedoman etika dalam kehidupan bermasyarakat, berbangsa, dan bernegara. Nilai-nilai yang terkandung di dalam Pancasila tidak hanya diterapkan dalam kehidupan sosial dan politik, tetapi juga relevan dalam menghadapi perkembangan teknologi informasi dan tantangan keamanan siber di era digital.
 
-Di awal Mei 2023, BSI mengalami gangguan layanan yang bersifat nasional, menyebabkan sebagian besar layanan digital tidak dapat diakses selama beberapa hari. Gangguan ini kemudian dihubungkan dengan serangan ransomware yang diaku oleh kelompok ransomware LockBit 3. 0, salah satu kelompok ransomware paling aktif di dunia. Kejadian ini menarik perhatian publik karena tidak hanya mengganggu operasional perbankan, tetapi juga menimbulkan kecurigaan mengenai kebocoran data nasabah dan karyawan, sehingga mengangkat pertanyaan tentang kesiapan Rencana Keberlangsungan Bisnis (BCP), Rencana Pemulihan Bencana (DRP), transparansi publik, serta tanggung jawab etika dan hukum perusahaan.
+Oleh karena itu, kasus serangan ransomware **LockBit 3.0** terhadap **PT Bank Syariah Indonesia (BSI)** pada tahun 2023 dapat dianalisis melalui perspektif Pancasila untuk memahami dimensi etis, sosial, dan tanggung jawab berbagai pihak yang terlibat.
+
+Serangan ransomware yang mengakibatkan terganggunya layanan perbankan dan dugaan kebocoran data nasabah menunjukkan bahwa keamanan informasi bukan hanya persoalan teknis, melainkan juga berkaitan dengan perlindungan hak masyarakat, tanggung jawab organisasi, dan kepercayaan publik terhadap institusi keuangan.
+
+---
+
+## 5.1 Sila Pertama: Ketuhanan Yang Maha Esa
+
+Sila pertama menekankan pentingnya nilai moral, kejujuran, integritas, dan tanggung jawab dalam setiap tindakan manusia. Dalam konteks keamanan siber, setiap individu maupun organisasi dituntut untuk menjunjung tinggi nilai-nilai etika dan moral dalam memanfaatkan teknologi informasi.
+
+Tindakan yang dilakukan oleh kelompok ransomware LockBit 3.0 jelas bertentangan dengan nilai Ketuhanan Yang Maha Esa karena melibatkan pencurian data, pemerasan digital, dan upaya memperoleh keuntungan melalui tindakan yang merugikan pihak lain. Serangan tersebut menunjukkan tidak adanya rasa tanggung jawab moral dan mengabaikan nilai kemanusiaan dalam penggunaan teknologi.
+
+Di sisi lain, sebagai lembaga keuangan yang dipercaya oleh jutaan nasabah, BSI juga memiliki tanggung jawab moral untuk menjaga kerahasiaan, integritas, dan keamanan data yang dipercayakan oleh masyarakat. Kepercayaan nasabah merupakan amanah yang harus dijaga melalui penerapan sistem keamanan informasi yang memadai, peningkatan kesadaran keamanan siber, serta pengelolaan risiko yang berkelanjutan.
+
+Nilai sila pertama mengajarkan bahwa penggunaan teknologi harus didasarkan pada etika dan tanggung jawab. Setiap organisasi perlu membangun budaya integritas, kejujuran, dan kepedulian terhadap perlindungan data sebagai bentuk pengamalan nilai Ketuhanan dalam era digital.
+
+---
+
+## 5.2 Sila Kedua: Kemanusiaan yang Adil dan Beradab
+
+Sila kedua menempatkan manusia sebagai subjek yang harus diperlakukan secara adil dan bermartabat. Dalam konteks keamanan siber, data pribadi merupakan bagian dari hak individu yang harus dilindungi dan dihormati.
+
+Kebocoran data yang diduga terjadi akibat serangan ransomware berpotensi menimbulkan berbagai dampak negatif bagi nasabah, seperti:
+
+- Pencurian identitas.
+- Penyalahgunaan data pribadi.
+- Penipuan berbasis digital.
+- Kerugian finansial dan psikologis.
+
+Tindakan kelompok ransomware yang menjadikan data pribadi sebagai alat pemerasan merupakan bentuk pelanggaran terhadap nilai kemanusiaan yang adil dan beradab. Data pribadi bukan sekadar kumpulan informasi digital, tetapi bagian dari hak privasi yang melekat pada setiap individu dan harus dihormati.
+
+Dengan demikian, kasus BSI menunjukkan bahwa perlindungan data pribadi merupakan implementasi nyata dari sila kedua, yaitu penghormatan terhadap martabat manusia dan hak setiap warga negara untuk memperoleh perlindungan yang adil.
+
+---
+
+## 5.3 Sila Ketiga: Persatuan Indonesia
+
+Sila ketiga menekankan pentingnya menjaga persatuan, solidaritas, dan kepentingan bersama. Dalam era digital, keamanan siber telah menjadi bagian dari ketahanan nasional karena gangguan terhadap infrastruktur digital dapat memengaruhi stabilitas ekonomi dan kepercayaan masyarakat.
+
+Serangan ransomware terhadap BSI tidak hanya berdampak pada perusahaan dan nasabah, tetapi juga menimbulkan kekhawatiran di masyarakat mengenai keamanan sistem perbankan nasional.
+
+Oleh karena itu, menjaga keamanan siber bukan hanya tanggung jawab satu organisasi, tetapi merupakan tanggung jawab bersama antara:
+
+- Pemerintah
+- Regulator
+- Lembaga keuangan
+- Penyedia teknologi
+- Masyarakat
+
+Diperlukan kolaborasi yang kuat untuk meningkatkan ketahanan siber nasional melalui pertukaran informasi, peningkatan kapasitas sumber daya manusia, penyusunan kebijakan yang tepat, serta penguatan sistem keamanan digital.
+
+---
+
+## 5.4 Sila Keempat: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan
+
+Sila keempat mengandung nilai demokrasi, kebijaksanaan, transparansi, dan pengambilan keputusan yang bertanggung jawab.
+
+Pada kasus BSI, komunikasi kepada nasabah dan masyarakat menjadi aspek yang sangat penting. Informasi yang jelas dan transparan dapat:
+
+- Mengurangi kepanikan.
+- Mencegah penyebaran informasi yang tidak benar.
+- Menjaga kepercayaan publik terhadap institusi keuangan.
+
+Penanganan insiden keamanan siber memerlukan koordinasi antara berbagai pihak, seperti manajemen perusahaan, regulator, pemerintah, dan aparat penegak hukum. Pengambilan keputusan yang melibatkan berbagai pemangku kepentingan mencerminkan semangat musyawarah dan kebijaksanaan sebagaimana terkandung dalam sila keempat.
+
+---
+
+## 5.5 Sila Kelima: Keadilan Sosial bagi Seluruh Rakyat Indonesia
+
+Sila kelima menekankan pentingnya keadilan, kesejahteraan, dan perlindungan yang merata bagi seluruh masyarakat.
+
+Dalam konteks keamanan siber, setiap pengguna layanan digital memiliki hak yang sama untuk memperoleh perlindungan atas data pribadi dan layanan yang aman.
+
+Pemerintah dan regulator memiliki tanggung jawab untuk memastikan adanya regulasi yang mampu melindungi masyarakat dari ancaman kejahatan siber melalui:
+
+- Penegakan hukum terhadap pelaku kejahatan siber.
+- Penguatan regulasi perlindungan data pribadi.
+- Peningkatan keamanan sistem informasi.
+
+Keadilan sosial juga mengandung makna bahwa setiap organisasi harus menginvestasikan sumber daya yang memadai untuk keamanan siber sehingga masyarakat tidak menjadi pihak yang dirugikan akibat lemahnya perlindungan sistem informasi.
+
+---
+
+# BAB VI
+# Kode Etik Profesi
+
+Perkembangan teknologi informasi telah mendorong transformasi digital di berbagai sektor, termasuk sektor perbankan. Namun, transformasi digital juga meningkatkan risiko keamanan siber, terutama terhadap data dan informasi yang bersifat sensitif.
+
+Kasus serangan ransomware **LockBit 3.0** terhadap **PT Bank Syariah Indonesia (BSI)** pada tahun 2023 menjadi salah satu insiden keamanan siber terbesar di Indonesia. Peristiwa ini menunjukkan bahwa keamanan informasi tidak hanya menjadi persoalan teknis, tetapi juga berkaitan dengan etika profesi dan tanggung jawab profesional dalam pengelolaan sistem informasi.
+
+---
+
+## 6.1 Prinsip Tanggung Jawab Profesional
+
+Seorang profesional di bidang teknologi informasi memiliki tanggung jawab untuk:
+
+- Menjaga kerahasiaan, integritas, dan ketersediaan informasi.
+- Melindungi data pribadi pengguna dari akses yang tidak sah.
+- Menerapkan standar keamanan informasi yang memadai.
+- Mengidentifikasi dan mengelola risiko keamanan siber.
+- Bertindak secara jujur, profesional, dan bertanggung jawab.
+- Mengutamakan kepentingan masyarakat dan pengguna layanan.
+
+---
+
+## 6.2 Analisis Berdasarkan Prinsip Kode Etik Profesi
+
+### 6.2.1 Prinsip Tanggung Jawab kepada Masyarakat (Public Interest)
+
+Profesi teknologi informasi memiliki kewajiban untuk mengutamakan kepentingan masyarakat. Sistem informasi yang digunakan oleh jutaan nasabah harus dirancang dan dikelola dengan memperhatikan aspek keamanan dan perlindungan data.
+
+---
+
+### 6.2.2 Prinsip Menghindari Kerugian bagi Pihak Lain (Avoid Harm)
+
+Kelompok ransomware LockBit 3.0 secara sengaja melakukan tindakan yang merugikan banyak pihak, seperti:
+
+- Mengganggu layanan perbankan.
+- Mengancam kerahasiaan data nasabah.
+- Menimbulkan kerugian finansial dan operasional.
+- Menurunkan kepercayaan masyarakat terhadap layanan digital.
+
+---
+
+### 6.2.3 Prinsip Kejujuran dan Integritas (Honesty and Integrity)
+
+Organisasi memiliki tanggung jawab untuk:
+
+- Memberikan informasi yang jelas kepada masyarakat.
+- Melakukan komunikasi secara transparan.
+- Menjelaskan langkah-langkah penanganan yang dilakukan.
+- Memberikan perlindungan kepada pihak yang terdampak.
+
+---
+
+### 6.2.4 Prinsip Kompetensi Profesional (Professional Competence)
+
+Profesional di bidang teknologi informasi wajib menjaga dan meningkatkan kompetensinya secara berkelanjutan.
+
+Organisasi harus memiliki sumber daya manusia yang mampu:
+
+- Mengidentifikasi ancaman siber.
+- Melakukan pemantauan keamanan sistem.
+- Mengelola kerentanan sistem.
+- Melakukan respons insiden secara cepat dan tepat.
+- Menyusun strategi pemulihan pasca-insiden.
+
+---
+
+### 6.2.5 Prinsip Menjaga Kerahasiaan (Confidentiality)
+
+Profesional teknologi informasi memiliki tanggung jawab untuk memastikan bahwa:
+
+- Data hanya dapat diakses oleh pihak yang berwenang.
+- Sistem memiliki mekanisme pengamanan yang memadai.
+- Risiko kebocoran data dapat diminimalkan.
+- Tersedia prosedur penanganan insiden keamanan.
+
+---
+
+### 6.2.6 Prinsip Akuntabilitas dan Tanggung Jawab
+
+Setiap organisasi harus bertanggung jawab terhadap sistem yang dikelolanya melalui:
+
+- Evaluasi penyebab insiden.
+- Perbaikan sistem keamanan.
+- Penyusunan langkah mitigasi.
+- Peningkatan tata kelola keamanan informasi.
+
+---
+
+## 6.3 Analisis Berdasarkan ACM Code of Ethics
+
+Prinsip-prinsip yang relevan dengan kasus BSI antara lain:
+
+1. Berkontribusi bagi masyarakat dan kesejahteraan manusia.
+2. Menghindari tindakan yang merugikan pihak lain.
+3. Bersikap jujur dan dapat dipercaya.
+4. Menghormati privasi.
+5. Menjaga kerahasiaan informasi.
+6. Menjalankan pekerjaan secara profesional dan kompeten.
+
+Serangan ransomware LockBit 3.0 bertentangan dengan seluruh prinsip tersebut karena menyebabkan kerugian bagi masyarakat, mengancam privasi pengguna, dan menyalahgunakan teknologi informasi untuk tujuan kriminal.
+
+---
+
+## 6.4 Pelajaran yang Dapat Diambil
+
+Beberapa pelajaran penting dari kasus BSI adalah:
+
+- Keamanan informasi merupakan tanggung jawab etis dan profesional.
+- Perlindungan data pribadi harus menjadi prioritas utama organisasi.
+- Organisasi harus meningkatkan kompetensi keamanan siber secara berkelanjutan.
+- Transparansi dan akuntabilitas sangat penting dalam penanganan insiden keamanan.
+- Penerapan kode etik profesi dapat membantu mencegah penyalahgunaan teknologi dan meningkatkan kepercayaan masyarakat.
+
+ # 10. ⁠Rancangan dampak & Kontrol Preventif
+ ## 10.1 Analisis Dampak Serangan Ransomware BSI (Mei 2023)
+Berdasarkan analisis kronologi serangan ransomware LockBit 3.0 terhadap Bank Syariah Indonesia (BSI) pada Mei 2023, dampak yang ditimbulkan tidak hanya menyasar sektor teknis, melainkan meluas ke aspek operasional, finansial, dan reputasi institusi. Berikut adalah rincian dampak negatif yang diidentifikasi:
+1. Dampak Operasional (System Downtime & Service Interruption)
+- Deskripsi: Terjadinya kelumpuhan total pada seluruh layanan digital perbankan, termasuk ATM, Mobile Banking (BSI Mobile), dan layanan kantor cabang selama beberapa hari. Hal ini menghentikan jutaan transaksi nasabah secara instan.
+- Tingkat Risiko: Tinggi (High).
+  
+2. Dampak Kebocoran Data (Data Breach & Eksfiltrasi Data)
+- Deskripsi: Kelompok ransomware berhasil mengeksfiltrasi sekitar 1,5 Terabyte (TB) data internal. Data yang bocor mencakup data pribadi 15 juta nasabah, informasi kartu kredit, data karyawan, dokumen keuangan, hingga dokumen legalitas bank yang kemudian disebarkan di dark web.
+- Tingkat Risiko: Tinggi (High).
+
+3. Dampak Reputasi dan Kepercayaan (Reputational Loss)
+- Deskripsi: Penurunan drastis tingkat kepercayaan nasabah (trust deficit) terhadap sistem keamanan perbankan syariah nasional, yang memicu sentimen negatif publik secara masif di media massa dan media sosial.
+- Tingkat Risiko: Tinggi (High).
+
+4. Dampak Finansial dan Regulasi (Financial & Legal Impact)
+- Deskripsi: Potensi kerugian material akibat hilangnya perputaran biaya transaksi harian, biaya pemulihan sistem (disaster recovery), serta potensi denda dari regulasi penegakan hukum perlindungan data pribadi (UU PDP).
+- ingkat Risiko: Tinggi (High).
+
+main
+# 10. ⁠Rancangan Dampak & Kontrol Preventif
+
+## 10.1 Analisis Dampak Serangan Ransomware BSI (Mei 2023)
+Berdasarkan analisis kronologi serangan ransomware LockBit 3.0 terhadap Bank Syariah Indonesia (BSI) pada Mei 2023, dampak yang ditimbulkan tidak hanya menyasar sektor teknis, melainkan meluas ke aspek operasional, finansial, dan reputasi institusi. Berikut adalah rincian dampak negatif yang diidentifikasi:
+
+**1. Dampak Operasional (System Downtime & Service Interruption)**
+- Deskripsi: Terjadinya kelumpuhan total pada seluruh layanan digital perbankan, termasuk ATM, Mobile Banking (BSI Mobile), dan layanan kantor cabang selama beberapa hari. Hal ini menghentikan jutaan transaksi nasabah secara instan.
+- Tingkat Risiko: Tinggi (High).
+  
+**2. Dampak Kebocoran Data (Data Breach & Eksfiltrasi Data)**
+- Deskripsi: Kelompok ransomware berhasil mengeksfiltrasi sekitar 1,5 Terabyte (TB) data internal. Data yang bocor mencakup data pribadi 15 juta nasabah, informasi kartu kredit, data karyawan, dokumen keuangan, hingga dokumen legalitas bank yang kemudian disebarkan di dark web.
+- Tingkat Risiko: Tinggi (High).
+  
+**3. Dampak Reputasi dan Kepercayaan (Reputational Loss)**
+- Deskripsi: Penurunan drastis tingkat kepercayaan nasabah (trust deficit) terhadap sistem keamanan perbankan syariah nasional, yang memicu sentimen negatif publik secara masif di media massa dan media sosial.
+- Tingkat Risiko: Tinggi (High).
+  
+**4. Dampak Finansial dan Regulasi (Financial & Legal Impact)**
+- Deskripsi: Potensi kerugian material akibat hilangnya perputaran biaya transaksi harian, biaya pemulihan sistem (disaster recovery), serta potensi denda dari regulasi penegakan hukum perlindungan data pribadi (UU PDP).
+- Tingkat Risiko: Tinggi (High).
+
+## 10.2 Rancangan Kontrol Preventif (Strategi Pencegahan)
+Belajar dari kelemahan arsitektur keamanan pada kasus BSI, berikut adalah rancangan kontrol preventif yang wajib diterapkan guna mencegah terjadinya serangan serupa di masa depan:
+
+### 10.2.1 Kontrol Teknis (Technical Controls)
+- Penerapan Arsitektur Zero Trust Network Access (ZTNA): Menghilangkan asumsi kepercayaan implisit di dalam jaringan. Setiap perangkat dan pengguna, baik internal maupun eksternal, wajib melalui proses verifikasi dan otentikasi secara ketat sebelum diberikan hak akses minimal (Least Privilege Access).
+- Implementasi Endpoint Detection and Response (EDR) & XDR: Memasang agen deteksi otomatis berbasis kecerdasan buatan (AI) di seluruh endpoint server dan komputer kerja untuk mendeteksi perilaku mencurigakan (seperti enkripsi massal secara tiba-tiba) dan mengisolasi perangkat yang terinfeksi secara seketika (real-time isolation).
+- Segregasi Jaringan dan Mikro-segmentasi: Membagi jaringan bank menjadi segmen-segmen kecil yang terisolasi satu sama lain. Jika satu segmen komputer kerja terinfeksi ransomware, malware tidak akan bisa menyebar secara lateral (lateral movement) ke server inti perbankan (core banking).
+- Strategi Backup Data Immutable (3-2-1-1-0 Rule): Menyimpan 3 salinan data, pada 2 media yang berbeda, dengan 1 salinan di lokasi luar (offsite/cloud), 1 salinan bersifat immutable (tidak dapat diubah atau dihapus oleh ransomware setelah ditulis), dan melakukan verifikasi pengujian pemulihan data dengan tingkat kesalahan 0.
+
+### 10.2.2 Kontrol Administratif (Administrative Controls)
+- Manajemen Kerentanan Berkala (Vulnerability Assessment & Penetration Testing - VAPT): Melakukan pemindaian celah keamanan secara rutin seminggu sekali dan melakukan simulasi peretasan (red teaming) minimal dua kali setahun untuk menutup celah keamanan sebelum dieksploitasi peretas.
+- Kebijakan Hardening & Patch Management Otomatis: Mewajibkan pembaruan patch keamanan sistem operasi dan perangkat lunak secara otomatis dalam waktu maksimal 24 jam setelah patch resmi dirilis oleh vendor.
+- Pelatihan Cyber Security Awareness & Phishing Simulation: Mengingat ransomware sering masuk melalui taktik social engineering (email phishing), karyawan wajib mengikuti pelatihan kesadaran siber dan simulasi jebakan email berkala setiap 3 bulan.
+
+## 10.4 Rencana Kontingensi Singkat (Rencana Cadangan)
+Jika kontrol preventif mengalami kegagalan teknis dan ransomware berhasil menembus pertahanan perimeter, langkah penanganan darurat yang disiapkan adalah:
+
+**1. Aktivasi Incident Response Plan (IRP): Memutus seluruh koneksi internet luar secara instan dan mematikan jalur komunikasi antar-cabang untuk mengurung pergerakan ransomware.**
+
+**2. Peralihan ke Disaster Recovery Center (DRC): Melakukan failover operasional ke pusat pemulihan bencana yang berada di lokasi geografis berbeda menggunakan data cadangan clean-state yang telah diverifikasi bebas dari malware.**
+
+# 11. Pelajaran Utama
+## 11.1 Keamanan Siber Bukan Lagi Masalah IT, Melainkan Risiko Bisnis Utama
+Kasus BSI membuktikan bahwa kegagalan sistem keamanan siber berdampak langsung pada kelangsungan bisnis (business continuity). Kelumpuhan layanan ATM dan mobile banking selama beberapa hari memicu kerugian finansial yang masif, potensi sanksi regulasi (UU PDP), serta penurunan drastis pada aspek paling krusial dalam dunia perbankan: kepercayaan nasabah (public trust).
+
+## 11.2 Paradigma Pertahanan Perimeter Tradisional Sudah Usang
+Mengandalkan firewall atau antivirus konvensional di jaringan luar (perimeter) tidak lagi cukup untuk membendung serangan modern. Industri finansial harus bergeser ke arsitektur Zero Trust, yang memegang prinsip "never trust, always verify". Setiap akses baik dari internal pegawai maupun jaringan luar harus selalu melalui proses otentikasi yang ketat dan menerapkan hak akses seminimal mungkin (least privilege).
+
+## 11.3 Pentingnya Deteksi Dini dan Isolasi Otomatis
+Ransomware bergerak sangat cepat melakukan enkripsi dan penyebaran lateral (lateral movement) begitu berhasil masuk ke satu komputer kerja pegawai. Pelajaran berharganya adalah organisasi wajib memiliki sistem EDR/XDR berbasis AI yang mampu mendeteksi aktivitas anomali secara real-time dan melakukan isolasi perangkat secara otomatis sebelum infeksi menyebar ke server inti (core banking).
+
+## 11.4 Strategi Cadangan (Backup) Harus Bersifat Immutable
+Kelompok peretas ransomware modern selalu mengincar dan menghapus data backup organisasi terlebih dahulu sebelum mengunci sistem utama. Oleh karena itu, memiliki cadangan data saja tidak cukup. Data cadangan wajib disimpan dengan metode Immutable Backup (data yang sudah ditulis tidak dapat diubah atau dihapus oleh siapa pun dalam jangka waktu tertentu), sehingga organisasi memiliki titik pemulihan yang aman tanpa harus membayar tebusan (ransom).
+
+## 11.5 Manusia Adalah Mata Rantai Terlemah (The Weakest Link)
+Sebagian besar serangan ransomware berskala besar dimulai dari celah kelalaian manusia, seperti rekayasa sosial (social engineering) melalui email phishing yang tidak sengaja diklik oleh karyawan. Hal ini menunjukkan bahwa investasi teknologi mutakhir harus diimbangi dengan pembangunan budaya sadar siber (cyber security awareness) yang konsisten bagi seluruh lini staf perusahaan.
+
+# 12. Daftar Pustaka
+Nugroho, A. (2023, May 13). Geng ransomware LockBit 3.0 akhirnya buka suara: Kami curi 1,5 TB data nasabah dan karyawan BSI. Password seluruh layanan juga dikuasai. Cyberthreat.id https://urj.uin-malang.ac.id/index.php/mij/article/download/15502/6783/
+
+Tempo. (2023, May 11). Dugaan serangan siber ransomware ke BSI. Tempo.co. https://www.tempo.co/ekonomi/dugaan-serangan-siber-ke-bsi-824962
+
+Tempo. (2023, May 12). Ransomware Lockbit 3.0 klaim lumpuhkan BSI dan curi data pengguna. CNN Indonesia. https://www.cnnindonesia.com/teknologi/20230513093401-185-949046/ransomware-lockbit-30-klaim-lumpuhkan-bsi-dan-curi-data-pengguna
+
+DW. (2023, May 13). Ransomware diduga sebab bocornya data nasabah BSI. DW Indonesia.dw https://www.dw.com/id/data-nasabah-bsi-diduga-bocor-karena-ransomware/a-65612084
 
 
-## 1.2 Konteks Teknis
-
-Ransomware adalah tipe malware yang dirancang untuk mengunci atau mengenkripsi sistem komputer, sehingga korban kehilangan akses ke data dan layanan yang ada. Setelah berhasil menginfeksi sistem, pelaku umumnya meminta sejumlah uang tebusan agar akses dapat dikembalikan. Dalam beberapa tahun terakhir, kelompok ransomware modern tidak hanya mengenkripsi data, tetapi juga mencuri informasi korban sebelum melakukan enkripsi. Strategi ini dikenal sebagai double extortion, di mana korban diancam dengan penyebaran data yang dicuri jika tebusan tidak dibayar.
-
-Kelompok LockBit 3. 0 terkenal karena penggunaan teknik ini. Mereka memanfaatkan celah dalam sistem keamanan untuk masuk ke jaringan internal korban, meningkatkan hak akses, mencuri informasi penting, lalu mengenkripsi server dan sistem operasional. Jenis serangan seperti ini sangat berisiko bagi lembaga keuangan karena dapat menghentikan layanan publik dan juga mengancam kerahasiaan informasi nasabah.
-
-Pada kasus BSI, diduga serangan ransomware menyebabkan gangguan pada berbagai layanan penting seperti aplikasi BSI Mobile, mesin ATM, internet banking, dan transaksi antarbank. Gangguan ini memperlihatkan bahwa insiden keamanan siber tidak hanya berdampak pada teknologi, tetapi juga berpengaruh pada operasional bisnis, reputasi perusahaan, kepercayaan publik, dan stabilitas sektor keuangan.
-
-
-## 1.3 Kronologi Kejadian
-
-| **Tanggal** | **Peristiwa** | **Dampak** |
-|-------------|---------------|------------|
-| **8 Mei 2023** | Nasabah mulai mengeluhkan gangguan pada layanan BSI Mobile, ATM, dan transaksi digital. BSI menyampaikan bahwa gangguan terjadi karena proses *maintenance* sistem. | Nasabah mengalami kesulitan melakukan transaksi dan mulai mempertanyakan penyebab gangguan. |
-| **9 Mei 2023** | Gangguan masih berlanjut pada layanan mobile banking, internet banking, ATM, serta beberapa layanan di kantor cabang. Keluhan masyarakat meningkat di media sosial dan menjadi perhatian media nasional. | Aktivitas transaksi masyarakat terganggu dan muncul kekhawatiran mengenai keamanan sistem BSI. |
-| **10 Mei 2023** | BSI membuka layanan secara terbatas melalui kantor cabang sambil melakukan proses pemulihan sistem bersama tim internal dan pihak terkait. | Operasional mulai berjalan secara manual, namun layanan digital masih belum normal sehingga menimbulkan spekulasi adanya serangan siber. |
-| **11 Mei 2023** | Kelompok **LockBit 3.0** mengklaim bertanggung jawab atas serangan terhadap sistem BSI dan mengaku telah memperoleh sekitar **1,5 TB** data internal. Kelompok tersebut juga mengancam akan mempublikasikan data apabila tidak terjadi negosiasi. | Kekhawatiran masyarakat meningkat karena adanya dugaan kebocoran data nasabah dan pegawai. |
-| **12–15 Mei 2023** | BSI melakukan pemulihan layanan secara bertahap. Aplikasi BSI Mobile, ATM, internet banking, dan layanan transaksi lainnya mulai kembali beroperasi. BSI juga menyampaikan permohonan maaf kepada nasabah. | Sebagian besar layanan berhasil dipulihkan, namun kepercayaan masyarakat terhadap keamanan sistem masih menjadi perhatian. |
-
-## 1.4 Analisis Kronologi
-
-Berdasarkan kronologi tersebut, insiden yang dialami BSI tidak hanya berdampak pada gangguan operasional, tetapi juga memengaruhi kepercayaan masyarakat terhadap keamanan layanan perbankan digital. Kasus ini menunjukkan bahwa ancaman keamanan siber dapat mengganggu keberlangsungan bisnis, menimbulkan kerugian bagi nasabah, serta menguji kesiapan organisasi dalam menangani insiden melalui penerapan Business Continuity Plan (BCP) dan Disaster Recovery Plan (DRP). Oleh karena itu, peristiwa ini menjadi salah satu contoh penting mengenai perlunya tata kelola keamanan informasi yang baik, transparansi kepada publik, serta tanggung jawab profesional dalam menghadapi insiden keamanan siber.
-
-# 2. Fakta Kunci & Catatan Transparansi
-
-## 2.1 Fakta Terverifikasi
-
-Dalam menganalisis kasus ransomware yang menimpa Bank Syariah Indonesia (BSI), penting untuk membedakan antara fakta yang telah terverifikasi dengan informasi yang masih berupa dugaan atau klaim. Fakta yang disajikan pada bagian ini berasal dari sumber resmi seperti pernyataan Bank Syariah Indonesia, Otoritas Jasa Keuangan (OJK), Badan Siber dan Sandi Negara (BSSN), serta pemberitaan media yang mengutip sumber resmi.
-Berikut merupakan fakta-fakta yang telah terverifikasi terkait insiden tersebut.
-
-| No | Fakta Terverifikasi | Keterangan |
-|----|---------------------|------------|
-| 1 | Gangguan layanan BSI mulai terjadi pada **8 Mei 2023**. | Gangguan dialami pada layanan BSI Mobile, ATM, internet banking, dan transaksi digital lainnya. |
-| 2 | BSI menyampaikan bahwa sedang dilakukan proses pemulihan sistem. | Informasi disampaikan melalui pengumuman resmi kepada nasabah selama masa gangguan. |
-| 3 | Layanan digital BSI mengalami gangguan selama beberapa hari. | Banyak nasabah tidak dapat melakukan transaksi secara normal. |
-| 4 | Kelompok ransomware **LockBit 3.0** mengklaim bertanggung jawab atas serangan terhadap sistem BSI. | Klaim tersebut dipublikasikan melalui situs kebocoran data milik LockBit. |
-| 5 | BSI melakukan pemulihan layanan secara bertahap hingga sistem kembali beroperasi. | Proses normalisasi dilakukan setelah gangguan berlangsung selama beberapa hari. |
-| 6 | **OJK** dan **BSSN** ikut memantau proses penanganan insiden. | Hal ini dilakukan untuk memastikan stabilitas layanan dan mendukung proses investigasi. |
-
-## 2.2 Informasi yang Masih Memerlukan Verifikasi
-
-Selain fakta yang telah dipastikan kebenarannya, terdapat beberapa informasi yang beredar di masyarakat namun belum dapat dipastikan secara resmi. Oleh karena itu, informasi berikut tidak dapat langsung dianggap sebagai fakta dan masih memerlukan verifikasi lebih lanjut.
-
-| No | Informasi | Status |
-|----|-----------|--------|
-| 1 | Seluruh data nasabah berhasil dicuri oleh pelaku. | ⚠️ **Belum terverifikasi.** Tidak ada pernyataan resmi yang menyatakan seluruh data nasabah berhasil dicuri. |
-| 2 | Data yang dicuri mencapai **1,5 TB**. | ⚠️ Berasal dari klaim **LockBit 3.0** dan belum dapat diverifikasi secara independen. |
-| 3 | Semua data yang diklaim dicuri telah dipublikasikan. | ⚠️ Belum dapat dipastikan karena tidak ada konfirmasi resmi mengenai keseluruhan data tersebut. |
-| 4 | Penyebab gangguan sepenuhnya disebabkan oleh ransomware. | ⚠️ Masih memerlukan hasil investigasi teknis secara lengkap karena detail penyebab tidak dipublikasikan secara menyeluruh kepada masyarakat. |
-
-## 2.3 Catatan Transparansi
-
-Dalam penyusunan laporan ini, penulis berupaya menerapkan prinsip transparansi dengan membedakan secara jelas antara fakta yang telah terverifikasi dan informasi yang masih berupa dugaan. Pendekatan ini dilakukan agar laporan tetap objektif, tidak menyesatkan pembaca, serta sesuai dengan etika akademik.
-
-Kasus BSI juga menunjukkan pentingnya transparansi organisasi dalam menghadapi insiden keamanan siber. Pada awal terjadinya gangguan, BSI menyampaikan bahwa layanan mengalami kendala akibat proses maintenance sistem. Seiring berkembangnya informasi, muncul klaim dari kelompok LockBit mengenai dugaan serangan ransomware dan pencurian data. Perbedaan informasi tersebut menimbulkan berbagai spekulasi di masyarakat sehingga diperlukan komunikasi yang jelas, konsisten, dan didukung oleh hasil investigasi yang dapat dipertanggungjawabkan.
-
-Bagi pembaca, informasi yang berasal dari pihak resmi seperti BSI, OJK, dan BSSN dapat dijadikan rujukan utama. Sementara itu, informasi yang berasal dari klaim kelompok LockBit perlu diperlakukan secara kritis karena belum seluruhnya dapat diverifikasi melalui sumber independen. Oleh sebab itu, setiap kesimpulan mengenai jumlah data yang diduga dicuri maupun dampak kebocoran data harus mempertimbangkan hasil investigasi resmi yang tersedia.
-
-## 2.4 Analisis Fakta dan Transparansi
-
-Berdasarkan fakta yang tersedia, dapat disimpulkan bahwa gangguan layanan BSI pada Mei 2023 merupakan insiden yang berdampak besar terhadap operasional perbankan dan kepercayaan masyarakat. Meskipun proses pemulihan layanan berhasil dilakukan, keterbatasan informasi pada tahap awal menyebabkan munculnya berbagai spekulasi di ruang publik.
-
-Dari sudut pandang etika profesi, transparansi merupakan salah satu aspek penting dalam penanganan insiden keamanan siber. Organisasi perlu memberikan informasi yang akurat, tepat waktu, dan tidak menyesatkan tanpa mengungkapkan data yang dapat mengganggu proses investigasi atau memperbesar risiko keamanan. Dengan demikian, keseimbangan antara keterbukaan informasi dan perlindungan keamanan menjadi faktor penting dalam menjaga kepercayaan nasabah serta memenuhi tanggung jawab profesional perusahaan.
 
 
