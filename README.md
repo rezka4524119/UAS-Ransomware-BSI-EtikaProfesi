@@ -5,7 +5,7 @@
 # ” Ransomware Bank Syariah Indonesia (BSI) — Mei 2023  ”
 
 
-<img src="https://pasca-univpancasila.ac.id/assets/images/logoup.gif" alt="Logo Universitas Pancasila" width="220">
+<img src="https://pasca-univpancasila.ac.id/assets/images/logoup.gif" alt="Logo Universitas Pancasila" width="270">
 
 ### Disusun Oleh
 
@@ -23,7 +23,11 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 **Fakultas Teknik**
 **Universitas Pancasila**
 **Jakarta**
-**2026**
+**2026**<br>
+<br>
+<br>
+<br>
+<br>
 
 </div>
 
