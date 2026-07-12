@@ -1,24 +1,23 @@
 <div align="center">
 
-# LAPORAN PROYEK AKHIR
+# UAS Etika Profesi (B) 
+# Keamanan Siber & Kebocoran Data
+# ” Ransomware Bank Syariah Indonesia (BSI) — Mei 2023  ”
 
-## Mata Kuliah Analisis dan Perancangan Berorientasi Objek (APBO)
 
-## Sistem Pelaporan Sampah Berbasis Web
-
-<img src="https://pasca-univpancasila.ac.id/assets/images/logoup.gif" alt="Logo Universitas Pancasila" width="180">
+<img src="https://pasca-univpancasila.ac.id/assets/images/logoup.gif" alt="Logo Universitas Pancasila" width="220">
 
 ### Disusun Oleh
 
-1. Ernan Wana – (NPM)
-2. Nama Anggota 2 – (NPM)
-3. Nama Anggota 3 – (NPM)
-4. Nama Anggota 4 – (NPM)
-5. Nama Anggota 5 – (NPM)
+Rezka Talia Salsabila – (4524210119)
+Muhammad Habibi Alfarisi 2 – (4524210132)
+Muhammad Al Farel Putra H 3 – (4524210113)
+Ernan Wanasakti 4 – (4524210121)
+Aufa Al Ghiyats SultaN P5 – (NPM)
 
 ### Dosen Pengampu
 
-Nama Dosen, S.Kom., M.Kom.
+Adi Wahyu Pribadi, S.Si., M.Kom 
 
 **Program Studi Teknik Informatika**
 **Fakultas Teknik**
