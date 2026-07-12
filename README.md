@@ -34,7 +34,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 
 
-# Link YouTube : https://youtu.be/-E3__Sv3MCM
+# Link YouTube : [https://youtu.be/-E3__Sv3MCM](https://youtu.be/-E3__Sv3MCM?feature=shared)
 # 1. Kronologi & Konteks
 
 ## 1.1 Konteks Kasus
