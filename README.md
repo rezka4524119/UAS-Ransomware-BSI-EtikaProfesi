@@ -36,7 +36,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 
 # Link YouTube : https://youtu.be/-E3__Sv3MCM
 # 1. Kronologi & Konteks
-
+# Link YouTube : https://youtu.be/-E3__Sv3MCM
 ## 1.1 Konteks Kasus
 
 Transformasi digital telah merubah sektor perbankan menjadi bidang yang sangat tergantung pada teknologi informasi. Berbagai layanan seperti perbankan mobile, perbankan internet, ATM, pengiriman uang, pembayaran tagihan, serta pembukaan rekening kini dilakukan secara daring. Digitalisasi menawarkan kemudahan, efisiensi, dan kecepatan dalam melayani nasabah, namun juga meningkatkan ancaman serangan siber karena sistem perbankan menjadi target yang sangat menarik bagi pelaku kejahatan siber.
