@@ -2,7 +2,7 @@
 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah Indonesia (BSI)  — Mei 2023 
 
 
-# 3.Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
+
 
 
 # 1. Kronologi & Konteks
@@ -82,6 +82,8 @@ Dari sudut pandang etika profesi, transparansi merupakan salah satu aspek pentin
 
 
 main
+
+# 3.Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1 Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1.1 Pengertian Pemangku Kepentingan
 Pemangku kepentingan adalah individu, kelompok, organisasi, atau lembaga yang memiliki kepentingan, memengaruhi, atau terpengaruh baik secara langsung maupun tidak langsung oleh suatu kejadian atau keputusan suatu organisasi. Di dalam kasus insiden keamanan siber, melakukan pemetaan pemangku kepentingan sangat krusial karena berfungsi untuk mengenali siapa saja yang berperan, siapa yang terpengaruh, dan bagaimana hubungan antara pihak-pihak tersebut dalam proses pencegahan, penanganan, serta pemulihan insiden.
@@ -518,12 +520,10 @@ Beberapa langkah yang dapat diterapkan untuk mengurangi kemungkinan terulangnya 
 
 
 
-# 1. Kronologi & Konteks
 
  main
 
-# BAB V
-# Lensa Kelima — Pancasila
+# 5. Lensa Kelima — Pancasila
 
 Pancasila merupakan dasar negara sekaligus pedoman etika dalam kehidupan bermasyarakat, berbangsa, dan bernegara. Nilai-nilai yang terkandung di dalam Pancasila tidak hanya diterapkan dalam kehidupan sosial dan politik, tetapi juga relevan dalam menghadapi perkembangan teknologi informasi dan tantangan keamanan siber di era digital.
 
