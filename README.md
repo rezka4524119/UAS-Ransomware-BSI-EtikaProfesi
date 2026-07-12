@@ -2,6 +2,7 @@
 Project Based Learning Mata Kuliah Etika Profesi Kasus Ransomware Bank Syariah Indonesia (BSI)  — Mei 2023 
 
  Muhamad-Habibi-Alfarisi-4524210137
+# 3.Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1 Pemetaan Pemangku Kepentingan (Stakeholder Mapping) 
 ## 3.1.1 Pengertian Pemangku Kepentingan
 Pemangku kepentingan adalah individu, kelompok, organisasi, atau lembaga yang memiliki kepentingan, memengaruhi, atau terpengaruh baik secara langsung maupun tidak langsung oleh suatu kejadian atau keputusan suatu organisasi. Di dalam kasus insiden keamanan siber, melakukan pemetaan pemangku kepentingan sangat krusial karena berfungsi untuk mengenali siapa saja yang berperan, siapa yang terpengaruh, dan bagaimana hubungan antara pihak-pihak tersebut dalam proses pencegahan, penanganan, serta pemulihan insiden.
@@ -153,7 +154,7 @@ Menyebarkan informasi yang benar dan meningkatkan literasi digital
 
 
 
-
+# 4. Analisis Etika, Hukum, dan Risiko
 ## 4.1 Analisis Etika, Hukum, dan Risiko
 ## 4.1.1 Analisis Empat Teori Etika
 ### 4.1.2 Analisis Berdasarkan Teori Utilitarianisme
@@ -327,6 +328,118 @@ Penurunan kepercayaan masyarakat
 Komunikasi yang transparan serta pemulihan layanan secara cepat
 
 Selain kontrol teknis, organisasi juga perlu membangun budaya keamanan informasi melalui edukasi kepada seluruh pegawai, penyusunan kebijakan keamanan yang jelas, serta evaluasi keamanan secara berkala. Pendekatan tersebut akan meningkatkan ketahanan organisasi terhadap ancaman siber sekaligus menjaga kepercayaan masyarakat terhadap layanan perbankan digital.
+
+
+# 8. Analisis Etika, Hukum, dan Risiko
+## 8.1 Pentingnya Integritas dalam Penanganan Insiden Siber
+
+Integritas merupakan salah satu prinsip utama dalam etika profesi, terutama bagi organisasi yang mengelola sistem informasi dan data masyarakat. Dalam kasus serangan ransomware terhadap Bank Syariah Indonesia (BSI), integritas tidak hanya diukur dari kemampuan perusahaan memulihkan sistem, tetapi juga dari kejujuran, transparansi, dan akuntabilitas selama proses penanganan insiden.
+
+Ketika terjadi gangguan layanan dan dugaan kebocoran data, perusahaan memiliki tanggung jawab untuk menyampaikan informasi yang akurat kepada nasabah, regulator, serta masyarakat. Penyampaian informasi yang tidak lengkap atau menyesatkan dapat menurunkan kepercayaan publik dan menimbulkan persepsi bahwa organisasi berusaha menyembunyikan fakta yang sebenarnya.
+
+Selain itu, setiap keputusan yang diambil selama proses penanganan insiden harus didasarkan pada kepentingan organisasi dan masyarakat, bukan untuk melindungi kepentingan pribadi maupun kelompok tertentu.
+
+---
+
+## 8.2 Checkpoint Integritas
+
+Berikut merupakan beberapa aspek integritas yang perlu diperhatikan dalam penanganan kasus ransomware BSI.
+
+| No | Checkpoint Integritas | Analisis |
+|----|-----------------------|----------|
+| 1 | Kejujuran dalam penyampaian informasi | Organisasi harus memberikan informasi yang benar, tidak dilebihkan maupun dikurangi, mengenai kondisi layanan dan proses pemulihan. |
+| 2 | Akuntabilitas | Manajemen bertanggung jawab atas keputusan yang diambil selama proses penanganan insiden serta wajib mempertanggungjawabkannya kepada regulator dan masyarakat. |
+| 3 | Perlindungan data pribadi | Seluruh upaya pemulihan harus tetap mengutamakan kerahasiaan data nasabah sesuai ketentuan hukum yang berlaku. |
+| 4 | Kepatuhan terhadap regulasi | Seluruh proses investigasi dan pemulihan harus mengikuti standar keamanan informasi serta peraturan pemerintah. |
+| 5 | Dokumentasi insiden | Setiap aktivitas selama proses penanganan harus dicatat sebagai bentuk akuntabilitas dan bahan evaluasi di masa mendatang. |
+
+---
+
+## 8.3 Perspektif Anti-Korupsi
+
+Dalam konteks etika profesi, korupsi tidak hanya berkaitan dengan penyalahgunaan uang, tetapi juga mencakup penyalahgunaan kewenangan, manipulasi informasi, serta tindakan yang merugikan kepentingan publik.
+
+Pada kasus BSI, terdapat beberapa risiko yang harus dihindari agar tidak bertentangan dengan prinsip anti-korupsi, antara lain:
+
+- Menyembunyikan fakta mengenai insiden keamanan siber demi menjaga citra perusahaan.
+- Memanipulasi hasil investigasi agar kesalahan tidak diketahui publik.
+- Mengabaikan prosedur keamanan demi mempercepat proses pemulihan tanpa mempertimbangkan risiko yang lebih besar.
+- Penyalahgunaan akses terhadap data nasabah oleh pihak internal selama proses investigasi.
+- Konflik kepentingan dalam pengambilan keputusan selama proses penanganan insiden.
+
+Apabila tindakan-tindakan tersebut terjadi, maka organisasi tidak hanya melanggar etika profesi, tetapi juga berpotensi melanggar hukum yang berlaku di Indonesia.
+
+---
+
+## 8.4 Rekomendasi Penguatan Integritas
+
+Untuk meningkatkan integritas organisasi dalam menghadapi insiden keamanan siber, beberapa langkah yang dapat dilakukan adalah sebagai berikut:
+
+- Menerapkan kebijakan **Zero Tolerance** terhadap penyalahgunaan wewenang.
+- Melaksanakan audit keamanan informasi secara berkala oleh auditor independen.
+- Membangun mekanisme **Whistleblowing System** bagi karyawan untuk melaporkan pelanggaran secara aman.
+- Memberikan pelatihan etika profesi dan anti-korupsi kepada seluruh pegawai.
+- Memastikan setiap keputusan selama proses penanganan insiden terdokumentasi dengan baik sehingga dapat dipertanggungjawabkan.
+
+# 9. Manajemen Risiko & Opsi 4T
+## 9.1 Manajemen Risiko pada Kasus BSI
+
+Manajemen risiko merupakan proses untuk mengidentifikasi, menganalisis, mengevaluasi, dan mengendalikan risiko yang dapat mengganggu tujuan organisasi. Dalam kasus serangan ransomware terhadap Bank Syariah Indonesia (BSI), manajemen risiko sangat penting karena insiden tidak hanya berdampak pada sistem teknologi informasi, tetapi juga memengaruhi operasional bisnis, kepercayaan nasabah, reputasi perusahaan, dan kepatuhan terhadap regulasi.
+
+Melalui proses manajemen risiko, organisasi dapat menentukan strategi penanganan yang tepat sehingga dampak kerugian dapat diminimalkan serta keberlangsungan layanan tetap terjaga.
+
+---
+
+## 9.2 Identifikasi Risiko
+
+| No | Risiko | Dampak |
+|----|---------|---------|
+| 1 | Gangguan layanan digital | Nasabah tidak dapat melakukan transaksi keuangan. |
+| 2 | Kebocoran data nasabah | Pelanggaran privasi dan penyalahgunaan data pribadi. |
+| 3 | Kerugian finansial | Biaya pemulihan sistem, investigasi, dan peningkatan keamanan. |
+| 4 | Penurunan reputasi perusahaan | Berkurangnya kepercayaan masyarakat terhadap BSI. |
+| 5 | Risiko hukum | Potensi sanksi akibat pelanggaran regulasi perlindungan data. |
+| 6 | Gangguan operasional | Aktivitas bisnis terganggu selama proses pemulihan berlangsung. |
+
+---
+
+## 9.3 Analisis Risiko
+
+Berdasarkan identifikasi tersebut, risiko dengan tingkat prioritas tertinggi adalah gangguan layanan digital dan kebocoran data nasabah. Kedua risiko tersebut memiliki kemungkinan terjadi yang tinggi serta memberikan dampak yang besar terhadap organisasi maupun masyarakat.
+
+Sementara itu, risiko reputasi dan kerugian finansial merupakan dampak lanjutan yang muncul sebagai konsekuensi dari gangguan layanan dan dugaan kebocoran data.
+
+---
+
+## 9.4 Opsi Penanganan Risiko (4T)
+
+Dalam manajemen risiko dikenal empat strategi utama atau **4T**, yaitu **Terminate**, **Treat**, **Transfer**, dan **Tolerate**.
+
+| Strategi 4T | Penerapan pada Kasus BSI |
+|--------------|--------------------------|
+| **Terminate (Menghindari Risiko)** | Menutup akses yang terindikasi menjadi jalur masuk ransomware, menonaktifkan sistem yang terinfeksi, serta memutus koneksi jaringan yang berpotensi menyebarkan serangan. |
+| **Treat (Mengurangi Risiko)** | Memperkuat keamanan jaringan, melakukan patch sistem, menerapkan Multi-Factor Authentication (MFA), memperbarui antivirus, melakukan backup rutin, dan meningkatkan monitoring keamanan. |
+| **Transfer (Mengalihkan Risiko)** | Menggunakan layanan cyber insurance, bekerja sama dengan perusahaan keamanan siber, serta melibatkan pihak ketiga dalam proses digital forensik dan pemulihan sistem. |
+| **Tolerate (Menerima Risiko)** | Menerima risiko-risiko kecil yang tidak dapat dihilangkan sepenuhnya dengan tetap melakukan pengawasan dan evaluasi berkala agar dampaknya tetap terkendali. |
+
+---
+
+## 9.5 Rekomendasi Manajemen Risiko
+
+Beberapa langkah yang dapat diterapkan untuk mengurangi kemungkinan terulangnya insiden serupa adalah sebagai berikut:
+
+- Melakukan **risk assessment** secara berkala.
+- Memperkuat implementasi **Business Continuity Plan (BCP)** dan **Disaster Recovery Plan (DRP)**.
+- Melakukan simulasi penanganan insiden keamanan siber secara rutin.
+- Mengembangkan sistem deteksi dini terhadap ancaman ransomware.
+- Memberikan pelatihan keamanan informasi kepada seluruh pegawai.
+- Melakukan audit keamanan informasi secara berkala sesuai standar internasional.
+
+---
+
+
+
+
 # 1. Kronologi & Konteks
 
 ## 1.1 Konteks Kasus
@@ -403,4 +516,3 @@ Berdasarkan fakta yang tersedia, dapat disimpulkan bahwa gangguan layanan BSI pa
 Dari sudut pandang etika profesi, transparansi merupakan salah satu aspek penting dalam penanganan insiden keamanan siber. Organisasi perlu memberikan informasi yang akurat, tepat waktu, dan tidak menyesatkan tanpa mengungkapkan data yang dapat mengganggu proses investigasi atau memperbesar risiko keamanan. Dengan demikian, keseimbangan antara keterbukaan informasi dan perlindungan keamanan menjadi faktor penting dalam menjaga kepercayaan nasabah serta memenuhi tanggung jawab profesional perusahaan.
 
 
- main
