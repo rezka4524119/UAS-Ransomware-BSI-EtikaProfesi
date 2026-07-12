@@ -9,11 +9,11 @@
 
 ### Disusun Oleh
 
-Rezka Talia Salsabila – (4524210119)
-Muhammad Habibi Alfarisi 2 – (4524210132)
-Muhammad Al Farel Putra H 3 – (4524210113)
-Ernan Wanasakti 4 – (4524210121)
-Aufa Al Ghiyats SultaN P5 – (NPM)
+Rezka Talia Schalsabila  (Ketua) – (4524210119)<br>
+Muhamad Habibi Alfarisi – (4524210137)<br>
+Muhammad Al Farel Putra H	 – (4524210113)<br>
+Ernan Wanasakti  – (4524210121)<br>
+Aufa Al Ghiyats Sulthan Priatmojo – (4524210132)<br>
 
 ### Dosen Pengampu
 
